@@ -33,4 +33,4 @@
 
 ## **Автор**
 
-Фасхиева Дарья - [Ссылка на GitHab](https://github.com/darfaskhieva19)
+Фасхиева Дарья - [darfaskhieva19](https://github.com/darfaskhieva19)
